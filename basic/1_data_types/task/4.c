@@ -9,7 +9,10 @@
 
 int main(){
     char name;
+
     name = getchar();
     printf("Hello %c\n", name);
+
+    return 0;
 }
 

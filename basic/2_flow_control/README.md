@@ -203,6 +203,8 @@ if(a > b){
 
 ```c
 int money, currency;
+printf("Введите количество денег и идентефикатор валюты\n");
+printf("1 для долларов, 2 для евро\n");
 scanf("%d %d", &money, &currency);
 
 if(currency == 1){

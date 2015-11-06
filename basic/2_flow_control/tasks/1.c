@@ -10,7 +10,7 @@ int main(){
 	if(y == k*x + b){
 		puts("Да\n");
 	} else {
-		puts("Нет\n")
+		puts("Нет\n");
 	}
 
 }
